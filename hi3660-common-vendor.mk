@@ -3004,5 +3004,8 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/hi3660-common/proprietary/lib64/vndk-27/libicui18n.so:system/lib64/vndk-27/libicui18n.so \
     vendor/huawei/hi3660-common/proprietary/lib64/vndk-27/libicuuc.so:system/lib64/vndk-27/libicuuc.so \
     vendor/huawei/hi3660-common/proprietary/lib64/vndk-27/libneuralnetworks.so:system/lib64/vndk-27/libneuralnetworks.so \
+    vendor/huawei/hi3660-common/proprietary/lib64/libchrlog.so:system/lib64/libchrlog.so \
+    vendor/huawei/hi3660-common/proprietary/lib64/libc_sec_hisi_connectivity.so:system/lib64/libc_sec_hisi_connectivity.so \
+    vendor/huawei/hi3660-common/proprietary/lib64/libpf_customize_hisi.so:system/lib64/libpf_customize_hisi.so \
     vendor/huawei/hi3660-common/proprietary/lib64/libwifi-system.so:system/lib64/libwifi-system.so \
     vendor/huawei/hi3660-common/proprietary/lib64/libwifi-hal.so:system/lib64/libwifi-hal.so
